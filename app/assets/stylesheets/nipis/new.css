@@ -1,0 +1,29 @@
+.lottery-title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  width: 500px;
+  margin: auto;
+  color: #DA8E00;
+  background: -webkit-linear-gradient(-45deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03, #DA8E00, #EDAC06, #F7DE05, #ECB802, #EDAC06);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.lottery-text{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 100px;
+}
+
+.lottery-language{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.lottery-list{
+  width: 10vw;
+  margin: auto;
+  border-bottom: 2px solid black;
+}

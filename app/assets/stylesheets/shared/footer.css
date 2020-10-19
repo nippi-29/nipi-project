@@ -1,0 +1,10 @@
+.footer-title-name{
+  margin-top: 100px;
+  font-weight: 700;
+  text-align: right;
+  font-size: 4vw;
+  color: #FF8C00;
+  background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

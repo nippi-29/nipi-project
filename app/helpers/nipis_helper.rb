@@ -1,0 +1,2 @@
+module NipisHelper
+end

@@ -1,0 +1,2 @@
+class NipisController < ApplicationController
+end

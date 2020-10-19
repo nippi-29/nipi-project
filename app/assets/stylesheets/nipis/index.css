@@ -1,0 +1,45 @@
+.header-title{
+  text-align: center;
+  font-size: 7vw;
+  font-weight: 700;
+  width: 30vw;
+  margin: auto;
+  color: #FF8C00;
+  background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.app-1-btn{
+  text-decoration: none;
+}
+
+.app-1-title{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  margin-top: 300px;
+  font-size: 5vw;
+  font-weight: 600;
+  color: #DA8E00;
+  background: -webkit-linear-gradient(-45deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03, #DA8E00, #EDAC06, #F7DE05, #ECB802, #EDAC06);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.app-2-btn{
+  text-decoration: none;
+}
+
+.app-2-title{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  margin-top: 300px;
+  font-size: 5vw;
+  font-weight: 600;
+  color: #DA8E00;
+  background: -webkit-linear-gradient(-45deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03, #DA8E00, #EDAC06, #F7DE05, #ECB802, #EDAC06);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
