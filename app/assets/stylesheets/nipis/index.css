@@ -38,8 +38,8 @@
   margin-top: 300px;
   font-size: 5vw;
   font-weight: 600;
-  color: #DA8E00;
-  background: -webkit-linear-gradient(-45deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03, #DA8E00, #EDAC06, #F7DE05, #ECB802, #EDAC06);
+  color: #ACB6E5;
+  background: -webkit-linear-gradient(0deg, #ACB6E5, #86FDE8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
