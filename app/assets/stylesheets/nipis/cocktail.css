@@ -4,8 +4,8 @@
   font-weight: 700;
   width: 500px;
   margin: auto;
-  color: #DA8E00;
-  background: -webkit-linear-gradient(-45deg, #F7DE05, #DA8E00, #EDAC06, #F7DE05, #ECB802, #DAAF08, #B67B03, #DA8E00, #EDAC06, #F7DE05, #ECB802, #EDAC06);
+  color: #ACB6E5;
+  background: -webkit-linear-gradient(0deg, #ACB6E5, #86FDE8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -16,7 +16,7 @@
   margin-top: 100px;
 }
 
-.cocktail-language{
+.cocktail-lists{
   text-align: center;
   margin-top: 50px;
   font-size: 20px;
@@ -26,4 +26,21 @@
   width: 10vw;
   margin: auto;
   border-bottom: 2px solid black;
+}
+
+.cocktail-framework{
+  width: 20vw;
+  margin: auto;
+  border-bottom: 2px solid black;
+}
+
+.cocktail-btn{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.cocktail-link{
+  background-color: gainsboro;
+  border: 1px solid black;
+  text-decoration: none;
 }
