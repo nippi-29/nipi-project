@@ -10,7 +10,7 @@
   -webkit-text-fill-color: transparent;
 }
 
-.app-1-btn{
+.app-btn{
   text-decoration: none;
 }
 
@@ -27,10 +27,6 @@
   -webkit-text-fill-color: transparent;
 }
 
-.app-2-btn{
-  text-decoration: none;
-}
-
 .app-2-title{
   text-align: center;
   width: 500px;
@@ -40,6 +36,19 @@
   font-weight: 600;
   color: #ACB6E5;
   background: -webkit-linear-gradient(0deg, #ACB6E5, #86FDE8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.app-3-title{
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  margin-top: 300px;
+  font-size: 5vw;
+  font-weight: 600;
+  color: #FF7C00;
+  background: -webkit-linear-gradient(top, #FFB76B 0%, #FFA73D 50%, #FF7C00 51%, #FF7F04 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

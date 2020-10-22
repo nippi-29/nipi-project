@@ -4,4 +4,7 @@ class NipisController < ApplicationController
 
   def cocktail_app
   end
+
+  def mypet
+  end
 end

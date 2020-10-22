@@ -4,6 +4,7 @@ Rails.application.routes.draw do
     collection do
       get 'team_c'
       get 'cocktail_app'
+      get 'mypet'
     end
   end
 end

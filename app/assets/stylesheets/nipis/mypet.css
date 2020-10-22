@@ -1,0 +1,46 @@
+.mypet-title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+  width: 500px;
+  margin: auto;
+  color: #FF7C00;
+  background: -webkit-linear-gradient(top, #FFB76B 0%, #FFA73D 50%, #FF7C00 51%, #FF7F04 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cocktail-text{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 100px;
+}
+
+.cocktail-lists{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.cocktail-list{
+  width: 10vw;
+  margin: auto;
+  border-bottom: 2px solid black;
+}
+
+.cocktail-framework{
+  width: 20vw;
+  margin: auto;
+  border-bottom: 2px solid black;
+}
+
+.cocktail-btn{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.cocktail-link{
+  background-color: gainsboro;
+  border: 1px solid black;
+  text-decoration: none;
+}
